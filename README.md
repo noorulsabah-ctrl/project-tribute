@@ -15,7 +15,7 @@ This is a simple web project built as part of FreeCodeCamp’s Responsive Web De
 
 ## View here
 
-https://noorulsabah-ctrl.github.io/book-survey-form/
+(https://noorulsabah-ctrl.github.io/project-tribute/)
 
 ## Technologies Used
 
