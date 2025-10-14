@@ -1,0 +1,92 @@
+body {
+  font-family: Helvetica;
+  color: #242424;
+}
+
+#title {
+  text-align: center;
+  padding: 10px 0 0;
+}
+
+h1 {
+  font-size: 37px;
+}
+
+img {
+  width: 70%;
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+  height: auto; 
+
+}
+
+#img-div {
+  padding: 20px 10px 10px;
+  background-color:#f3f3f3;
+  margin: 20px auto;
+  border-radius: 10px;
+  width: 95%;
+  text-align: center; 
+  
+}
+
+#main-div {
+  background-color: #dbdbdb;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 2px;
+}
+
+#about-life {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+li {
+  max-width: 550px;
+  margin: 0 auto;
+  padding: 10px;
+
+}
+
+#quote, h3 {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+
+}
+
+#name {
+  text-align: left;
+  padding-left: 20px;
+  display: block;
+}
+
+
+h3 {
+  padding: 40px;
+}
+
+#name {
+  text-align: left;
+  padding-left: 20px;
+  display: block;
+}
+
+
+h3 {
+  padding: 40px;
+}
+
+a {
+  color: #631a13;
+}
+
+a:hover {
+  color: #823838;
+}
